@@ -15,31 +15,20 @@
 <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="elasticsearch" height="30" width="30" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg">  
-  
-  
-<a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="30" height="30"/> </a> <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="30" height="30"/> </a> <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="30" height="30"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="30"/> </a> 
-  <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="30" height="30"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> </p>  
-  
-
+<img align="center" alt="grafana" height="30" width="30" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" >
+<img align="center" alt="hadoop" height="30" width="30" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg">
+<img align="center" alt="hive"   height="30" width="30" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg">
+<img align="center" alt="jenkins" height="30" width="30" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">
+<img align="center" alt="kibana" height="30" width="30" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" >
+<img align="center" alt="mariadb" height="30" width="30" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" >
+<img align="center" alt="postgresql" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+   
 <a href="https://www.instagram.com/luisdjocker" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto: luisldjsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luis-roberto-silva-junior-5841361bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 <div style="display: inline_block"><br>
-  
-  
-<h3 align="center">A passionate frontend developer from India</h3>
-
-
-
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisdjay&" alt="luisdjay" /></p>
-
   
   
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 

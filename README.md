@@ -14,6 +14,8 @@
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+
 <!-- <img align="center" alt="mariadb" height="30" width="30" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" >  
 <img align="center" alt="elasticsearch" height="30" width="30" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg">  
 <img align="center" alt="grafana" height="30" width="30" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" >
